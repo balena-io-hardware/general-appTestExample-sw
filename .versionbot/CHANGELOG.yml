@@ -1,0 +1,14 @@
+- commits:
+    - subject: initial test
+      hash: 3097716be224b5dfe21fadeb3eb4c2e6df5d3f16
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ryan Cooke <ryan@balena.io>
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+      author: rcooke-warwick
+      nested: []
+  version: 0.0.2
+  title: ""
+  date: 2022-11-25T09:34:21.166Z
