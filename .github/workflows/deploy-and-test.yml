@@ -24,4 +24,5 @@ jobs:
             balena_token: ${{ secrets.BALENA_API_KEY }}
             fleet: gh_rcooke_warwick/connector-block-test
             release_id: ${{ steps.build.outputs.release_id }}
+            test_command: npm install && npm run balena-test
 
