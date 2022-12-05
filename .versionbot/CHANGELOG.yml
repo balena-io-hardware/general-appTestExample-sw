@@ -1,4 +1,48 @@
 - commits:
+    - subject: Install with npx
+      hash: 7f745832c76a07a5e0be5be717bac94aca35e229
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Alex Bucknall <alex.bucknall@gmail.com>
+        signed-off-by: Alex Bucknall <alex.bucknall@gmail.com>
+      author: Alex Bucknall
+      nested: []
+    - subject: fix path to action
+      hash: 6dee5079dc1aa1adf0c11ee1a99a4d5fb124904a
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ryan Cooke <ryan@balena.io>
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+      author: rcooke-warwick
+      nested: []
+    - subject: fix yaml indentation
+      hash: 5318207f772c38d76ec93511268a7d5d4b54da3a
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ryan Cooke <ryan@balena.io>
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+      author: rcooke-warwick
+      nested: []
+    - subject: test balena-test actions
+      hash: ba7333879429f4db79628023b91f07d2f8e9e329
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ryan Cooke <ryan@balena.io>
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+      author: rcooke-warwick
+      nested: []
+  version: 0.0.3
+  title: ""
+  date: 2022-12-05T10:52:10.335Z
+- commits:
     - subject: initial test
       hash: 3097716be224b5dfe21fadeb3eb4c2e6df5d3f16
       body: ""
