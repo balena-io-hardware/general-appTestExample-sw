@@ -5,7 +5,7 @@
   "description": "draft app test demo",
   "scripts": {
     "test": "exit 0",
-    "balena-test": "tap --timeout=600"
+    "balena-test": "npx tap --timeout=600"
   },
   "author": "balena.io",
   "license": "Apache-2.0",
